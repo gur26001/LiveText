@@ -1,6 +1,6 @@
 # LiveText
 We are developing a real time Microsoft Word like application where two or more users can write and read a document simultaneously. This application’s UI is interactive and dynamic and we are using ReactJs for the same. For handling the Back-End we are using  Django.
-
+Our presentation link- https://docs.google.com/presentation/d/1xG0pVe4eHcixiUu8xZGettS5hxBe9c2HicCLO0BbV-w/edit?usp=sharing
 
 # Running our project
 ## Prerequisties:
